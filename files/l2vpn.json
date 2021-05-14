@@ -1,0 +1,647 @@
+{
+  "count": 16,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "cdce7c67-e7e4-40ae-b4d3-a4e4ee66a2f9",
+      "url": "http://10.66.69.142:8481/api/dcim/interfaces/cdce7c67-e7e4-40ae-b4d3-a4e4ee66a2f9/",
+      "device": {
+        "id": "2859612a-0bde-4895-84b1-d60b73e9dc93",
+        "url": "http://10.66.69.142:8481/api/dcim/devices/2859612a-0bde-4895-84b1-d60b73e9dc93/",
+        "name": "ATT00T02CICU001",
+        "display_name": "ATT00T02CICU001"
+      },
+      "name": "Loopback0",
+      "label": "Loopback0",
+      "type": {
+        "value": "virtual",
+        "label": "Virtual"
+      },
+      "enabled": true,
+      "lag": null,
+      "mtu": null,
+      "mac_address": null,
+      "mgmt_only": true,
+      "description": "default loopback",
+      "mode": null,
+      "untagged_vlan": null,
+      "tagged_vlans": [
+
+      ],
+      "cable": null,
+      "cable_peer": null,
+      "cable_peer_type": null,
+      "connected_endpoint": null,
+      "connected_endpoint_type": null,
+      "connected_endpoint_reachable": null,
+      "tags": [
+
+      ],
+      "count_ipaddresses": 0,
+      "custom_fields": {
+
+      }
+    },
+    {
+      "id": "87c22304-6edf-48e6-8437-4f3b7e07a964",
+      "url": "http://10.66.69.142:8481/api/dcim/interfaces/87c22304-6edf-48e6-8437-4f3b7e07a964/",
+      "device": {
+        "id": "2859612a-0bde-4895-84b1-d60b73e9dc93",
+        "url": "http://10.66.69.142:8481/api/dcim/devices/2859612a-0bde-4895-84b1-d60b73e9dc93/",
+        "name": "ATT00T02CICU001",
+        "display_name": "ATT00T02CICU001"
+      },
+      "name": "Loopback1",
+      "label": "Loopback1",
+      "type": {
+        "value": "virtual",
+        "label": "Virtual"
+      },
+      "enabled": true,
+      "lag": null,
+      "mtu": null,
+      "mac_address": null,
+      "mgmt_only": true,
+      "description": "network management loopback",
+      "mode": null,
+      "untagged_vlan": null,
+      "tagged_vlans": [
+
+      ],
+      "cable": null,
+      "cable_peer": null,
+      "cable_peer_type": null,
+      "connected_endpoint": null,
+      "connected_endpoint_type": null,
+      "connected_endpoint_reachable": null,
+      "tags": [
+
+      ],
+      "count_ipaddresses": 0,
+      "custom_fields": {
+
+      }
+    },
+    {
+      "id": "c95f5811-7795-4d8b-9547-b5c4917b0f35",
+      "url": "http://10.66.69.142:8481/api/dcim/interfaces/c95f5811-7795-4d8b-9547-b5c4917b0f35/",
+      "device": {
+        "id": "69335dae-0cf6-4fdb-8780-a04b7f46fa40",
+        "url": "http://10.66.69.142:8481/api/dcim/devices/69335dae-0cf6-4fdb-8780-a04b7f46fa40/",
+        "name": "BAT00B04CICN001",
+        "display_name": "BAT00B04CICN001"
+      },
+      "name": "Loopback0",
+      "label": "Loopback0",
+      "type": {
+        "value": "virtual",
+        "label": "Virtual"
+      },
+      "enabled": true,
+      "lag": null,
+      "mtu": null,
+      "mac_address": null,
+      "mgmt_only": true,
+      "description": "default loopback",
+      "mode": null,
+      "untagged_vlan": null,
+      "tagged_vlans": [
+
+      ],
+      "cable": null,
+      "cable_peer": null,
+      "cable_peer_type": null,
+      "connected_endpoint": null,
+      "connected_endpoint_type": null,
+      "connected_endpoint_reachable": null,
+      "tags": [
+
+      ],
+      "count_ipaddresses": 0,
+      "custom_fields": {
+
+      }
+    },
+    {
+      "id": "69994d09-f4b6-468b-ba8b-03d410fc775b",
+      "url": "http://10.66.69.142:8481/api/dcim/interfaces/69994d09-f4b6-468b-ba8b-03d410fc775b/",
+      "device": {
+        "id": "69335dae-0cf6-4fdb-8780-a04b7f46fa40",
+        "url": "http://10.66.69.142:8481/api/dcim/devices/69335dae-0cf6-4fdb-8780-a04b7f46fa40/",
+        "name": "BAT00B04CICN001",
+        "display_name": "BAT00B04CICN001"
+      },
+      "name": "Loopback1",
+      "label": "Loopback1",
+      "type": {
+        "value": "virtual",
+        "label": "Virtual"
+      },
+      "enabled": true,
+      "lag": null,
+      "mtu": null,
+      "mac_address": null,
+      "mgmt_only": true,
+      "description": "network management loopback",
+      "mode": null,
+      "untagged_vlan": null,
+      "tagged_vlans": [
+
+      ],
+      "cable": null,
+      "cable_peer": null,
+      "cable_peer_type": null,
+      "connected_endpoint": null,
+      "connected_endpoint_type": null,
+      "connected_endpoint_reachable": null,
+      "tags": [
+
+      ],
+      "count_ipaddresses": 0,
+      "custom_fields": {
+
+      }
+    },
+    {
+      "id": "2a3228e4-3539-4fe9-afdb-b4b4bc489b77",
+      "url": "http://10.66.69.142:8481/api/dcim/interfaces/2a3228e4-3539-4fe9-afdb-b4b4bc489b77/",
+      "device": {
+        "id": "a8a93075-c862-44b4-a9d8-43a1c4eb487b",
+        "url": "http://10.66.69.142:8481/api/dcim/devices/a8a93075-c862-44b4-a9d8-43a1c4eb487b/",
+        "name": "BAT00B04CICN002",
+        "display_name": "BAT00B04CICN002"
+      },
+      "name": "Loopback0",
+      "label": "Loopback0",
+      "type": {
+        "value": "virtual",
+        "label": "Virtual"
+      },
+      "enabled": true,
+      "lag": null,
+      "mtu": null,
+      "mac_address": null,
+      "mgmt_only": true,
+      "description": "default loopback",
+      "mode": null,
+      "untagged_vlan": null,
+      "tagged_vlans": [
+
+      ],
+      "cable": null,
+      "cable_peer": null,
+      "cable_peer_type": null,
+      "connected_endpoint": null,
+      "connected_endpoint_type": null,
+      "connected_endpoint_reachable": null,
+      "tags": [
+
+      ],
+      "count_ipaddresses": 0,
+      "custom_fields": {
+
+      }
+    },
+    {
+      "id": "8ed0f933-3c04-4433-8b81-f76dce7ce438",
+      "url": "http://10.66.69.142:8481/api/dcim/interfaces/8ed0f933-3c04-4433-8b81-f76dce7ce438/",
+      "device": {
+        "id": "a8a93075-c862-44b4-a9d8-43a1c4eb487b",
+        "url": "http://10.66.69.142:8481/api/dcim/devices/a8a93075-c862-44b4-a9d8-43a1c4eb487b/",
+        "name": "BAT00B04CICN002",
+        "display_name": "BAT00B04CICN002"
+      },
+      "name": "Loopback1",
+      "label": "Loopback1",
+      "type": {
+        "value": "virtual",
+        "label": "Virtual"
+      },
+      "enabled": true,
+      "lag": null,
+      "mtu": null,
+      "mac_address": null,
+      "mgmt_only": true,
+      "description": "network management loopback",
+      "mode": null,
+      "untagged_vlan": null,
+      "tagged_vlans": [
+
+      ],
+      "cable": null,
+      "cable_peer": null,
+      "cable_peer_type": null,
+      "connected_endpoint": null,
+      "connected_endpoint_type": null,
+      "connected_endpoint_reachable": null,
+      "tags": [
+
+      ],
+      "count_ipaddresses": 0,
+      "custom_fields": {
+
+      }
+    },
+    {
+      "id": "4ce9e24b-5821-4f26-8de2-609423934faa",
+      "url": "http://10.66.69.142:8481/api/dcim/interfaces/4ce9e24b-5821-4f26-8de2-609423934faa/",
+      "device": {
+        "id": "a10d95b1-297a-48ba-8cac-ba7fa4393e90",
+        "url": "http://10.66.69.142:8481/api/dcim/devices/a10d95b1-297a-48ba-8cac-ba7fa4393e90/",
+        "name": "BGO05352CIBE001",
+        "display_name": "BGO05352CIBE001"
+      },
+      "name": "Loopback0",
+      "label": "Loopback0",
+      "type": {
+        "value": "virtual",
+        "label": "Virtual"
+      },
+      "enabled": true,
+      "lag": null,
+      "mtu": null,
+      "mac_address": null,
+      "mgmt_only": true,
+      "description": "default loopback",
+      "mode": null,
+      "untagged_vlan": null,
+      "tagged_vlans": [
+
+      ],
+      "cable": null,
+      "cable_peer": null,
+      "cable_peer_type": null,
+      "connected_endpoint": null,
+      "connected_endpoint_type": null,
+      "connected_endpoint_reachable": null,
+      "tags": [
+
+      ],
+      "count_ipaddresses": 0,
+      "custom_fields": {
+
+      }
+    },
+    {
+      "id": "99db67cd-4c15-4a4b-a7af-119e11e4fd39",
+      "url": "http://10.66.69.142:8481/api/dcim/interfaces/99db67cd-4c15-4a4b-a7af-119e11e4fd39/",
+      "device": {
+        "id": "a10d95b1-297a-48ba-8cac-ba7fa4393e90",
+        "url": "http://10.66.69.142:8481/api/dcim/devices/a10d95b1-297a-48ba-8cac-ba7fa4393e90/",
+        "name": "BGO05352CIBE001",
+        "display_name": "BGO05352CIBE001"
+      },
+      "name": "Loopback1",
+      "label": "Loopback1",
+      "type": {
+        "value": "virtual",
+        "label": "Virtual"
+      },
+      "enabled": true,
+      "lag": null,
+      "mtu": null,
+      "mac_address": null,
+      "mgmt_only": true,
+      "description": "network management loopback",
+      "mode": null,
+      "untagged_vlan": null,
+      "tagged_vlans": [
+
+      ],
+      "cable": null,
+      "cable_peer": null,
+      "cable_peer_type": null,
+      "connected_endpoint": null,
+      "connected_endpoint_type": null,
+      "connected_endpoint_reachable": null,
+      "tags": [
+
+      ],
+      "count_ipaddresses": 0,
+      "custom_fields": {
+
+      }
+    },
+    {
+      "id": "fa5466a9-3f72-48f9-bf90-545b39b8f414",
+      "url": "http://10.66.69.142:8481/api/dcim/interfaces/fa5466a9-3f72-48f9-bf90-545b39b8f414/",
+      "device": {
+        "id": "b56763bb-0565-478e-bc13-06a37f75d2bd",
+        "url": "http://10.66.69.142:8481/api/dcim/devices/b56763bb-0565-478e-bc13-06a37f75d2bd/",
+        "name": "MTP00H22CIBE001",
+        "display_name": "MTP00H22CIBE001"
+      },
+      "name": "Loopback0",
+      "label": "Loopback0",
+      "type": {
+        "value": "virtual",
+        "label": "Virtual"
+      },
+      "enabled": true,
+      "lag": null,
+      "mtu": null,
+      "mac_address": null,
+      "mgmt_only": true,
+      "description": "default loopback",
+      "mode": null,
+      "untagged_vlan": null,
+      "tagged_vlans": [
+
+      ],
+      "cable": null,
+      "cable_peer": null,
+      "cable_peer_type": null,
+      "connected_endpoint": null,
+      "connected_endpoint_type": null,
+      "connected_endpoint_reachable": null,
+      "tags": [
+
+      ],
+      "count_ipaddresses": 0,
+      "custom_fields": {
+
+      }
+    },
+    {
+      "id": "d2e87750-9e33-4196-8baf-ca81bc5158cf",
+      "url": "http://10.66.69.142:8481/api/dcim/interfaces/d2e87750-9e33-4196-8baf-ca81bc5158cf/",
+      "device": {
+        "id": "b56763bb-0565-478e-bc13-06a37f75d2bd",
+        "url": "http://10.66.69.142:8481/api/dcim/devices/b56763bb-0565-478e-bc13-06a37f75d2bd/",
+        "name": "MTP00H22CIBE001",
+        "display_name": "MTP00H22CIBE001"
+      },
+      "name": "Loopback1",
+      "label": "Loopback1",
+      "type": {
+        "value": "virtual",
+        "label": "Virtual"
+      },
+      "enabled": true,
+      "lag": null,
+      "mtu": null,
+      "mac_address": null,
+      "mgmt_only": true,
+      "description": "network management loopback",
+      "mode": null,
+      "untagged_vlan": null,
+      "tagged_vlans": [
+
+      ],
+      "cable": null,
+      "cable_peer": null,
+      "cable_peer_type": null,
+      "connected_endpoint": null,
+      "connected_endpoint_type": null,
+      "connected_endpoint_reachable": null,
+      "tags": [
+
+      ],
+      "count_ipaddresses": 0,
+      "custom_fields": {
+
+      }
+    },
+    {
+      "id": "0acbb3b0-b72e-41c4-8707-e58db45c2322",
+      "url": "http://10.66.69.142:8481/api/dcim/interfaces/0acbb3b0-b72e-41c4-8707-e58db45c2322/",
+      "device": {
+        "id": "ec81c53a-f395-4a2e-b474-e7c95bb489b1",
+        "url": "http://10.66.69.142:8481/api/dcim/devices/ec81c53a-f395-4a2e-b474-e7c95bb489b1/",
+        "name": "MTP00H22CIBE002",
+        "display_name": "MTP00H22CIBE002"
+      },
+      "name": "Loopback0",
+      "label": "Loopback0",
+      "type": {
+        "value": "virtual",
+        "label": "Virtual"
+      },
+      "enabled": true,
+      "lag": null,
+      "mtu": null,
+      "mac_address": null,
+      "mgmt_only": true,
+      "description": "default loopback",
+      "mode": null,
+      "untagged_vlan": null,
+      "tagged_vlans": [
+
+      ],
+      "cable": null,
+      "cable_peer": null,
+      "cable_peer_type": null,
+      "connected_endpoint": null,
+      "connected_endpoint_type": null,
+      "connected_endpoint_reachable": null,
+      "tags": [
+
+      ],
+      "count_ipaddresses": 0,
+      "custom_fields": {
+
+      }
+    },
+    {
+      "id": "9e67da77-50cf-4bf9-ab5e-22050b578ee1",
+      "url": "http://10.66.69.142:8481/api/dcim/interfaces/9e67da77-50cf-4bf9-ab5e-22050b578ee1/",
+      "device": {
+        "id": "ec81c53a-f395-4a2e-b474-e7c95bb489b1",
+        "url": "http://10.66.69.142:8481/api/dcim/devices/ec81c53a-f395-4a2e-b474-e7c95bb489b1/",
+        "name": "MTP00H22CIBE002",
+        "display_name": "MTP00H22CIBE002"
+      },
+      "name": "Loopback1",
+      "label": "Loopback1",
+      "type": {
+        "value": "virtual",
+        "label": "Virtual"
+      },
+      "enabled": true,
+      "lag": null,
+      "mtu": null,
+      "mac_address": null,
+      "mgmt_only": true,
+      "description": "network management loopback",
+      "mode": null,
+      "untagged_vlan": null,
+      "tagged_vlans": [
+
+      ],
+      "cable": null,
+      "cable_peer": null,
+      "cable_peer_type": null,
+      "connected_endpoint": null,
+      "connected_endpoint_type": null,
+      "connected_endpoint_reachable": null,
+      "tags": [
+
+      ],
+      "count_ipaddresses": 0,
+      "custom_fields": {
+
+      }
+    },
+    {
+      "id": "7b7f180a-d803-4cbf-9e5b-241494ffc102",
+      "url": "http://10.66.69.142:8481/api/dcim/interfaces/7b7f180a-d803-4cbf-9e5b-241494ffc102/",
+      "device": {
+        "id": "7d29c6e9-2950-4b6c-b585-5af2823cdf61",
+        "url": "http://10.66.69.142:8481/api/dcim/devices/7d29c6e9-2950-4b6c-b585-5af2823cdf61/",
+        "name": "MTPPXALACICU001",
+        "display_name": "MTPPXALACICU001"
+      },
+      "name": "Loopback0",
+      "label": "Loopback0",
+      "type": {
+        "value": "virtual",
+        "label": "Virtual"
+      },
+      "enabled": true,
+      "lag": null,
+      "mtu": null,
+      "mac_address": null,
+      "mgmt_only": true,
+      "description": "default loopback",
+      "mode": null,
+      "untagged_vlan": null,
+      "tagged_vlans": [
+
+      ],
+      "cable": null,
+      "cable_peer": null,
+      "cable_peer_type": null,
+      "connected_endpoint": null,
+      "connected_endpoint_type": null,
+      "connected_endpoint_reachable": null,
+      "tags": [
+
+      ],
+      "count_ipaddresses": 0,
+      "custom_fields": {
+
+      }
+    },
+    {
+      "id": "2edbf560-3b1e-45b1-a604-739c9d44d10c",
+      "url": "http://10.66.69.142:8481/api/dcim/interfaces/2edbf560-3b1e-45b1-a604-739c9d44d10c/",
+      "device": {
+        "id": "7d29c6e9-2950-4b6c-b585-5af2823cdf61",
+        "url": "http://10.66.69.142:8481/api/dcim/devices/7d29c6e9-2950-4b6c-b585-5af2823cdf61/",
+        "name": "MTPPXALACICU001",
+        "display_name": "MTPPXALACICU001"
+      },
+      "name": "Loopback1",
+      "label": "Loopback1",
+      "type": {
+        "value": "virtual",
+        "label": "Virtual"
+      },
+      "enabled": true,
+      "lag": null,
+      "mtu": null,
+      "mac_address": null,
+      "mgmt_only": true,
+      "description": "network management loopback",
+      "mode": null,
+      "untagged_vlan": null,
+      "tagged_vlans": [
+
+      ],
+      "cable": null,
+      "cable_peer": null,
+      "cable_peer_type": null,
+      "connected_endpoint": null,
+      "connected_endpoint_type": null,
+      "connected_endpoint_reachable": null,
+      "tags": [
+
+      ],
+      "count_ipaddresses": 0,
+      "custom_fields": {
+
+      }
+    },
+    {
+      "id": "4d8b4e82-3c97-4bc3-a321-cb451d1581c1",
+      "url": "http://10.66.69.142:8481/api/dcim/interfaces/4d8b4e82-3c97-4bc3-a321-cb451d1581c1/",
+      "device": {
+        "id": "08f50ae1-fe9e-4116-8621-fef4099dc501",
+        "url": "http://10.66.69.142:8481/api/dcim/devices/08f50ae1-fe9e-4116-8621-fef4099dc501/",
+        "name": "SPES0788CICU001",
+        "display_name": "SPES0788CICU001"
+      },
+      "name": "Loopback0",
+      "label": "Loopback0",
+      "type": {
+        "value": "virtual",
+        "label": "Virtual"
+      },
+      "enabled": true,
+      "lag": null,
+      "mtu": null,
+      "mac_address": null,
+      "mgmt_only": true,
+      "description": "default loopback",
+      "mode": null,
+      "untagged_vlan": null,
+      "tagged_vlans": [
+
+      ],
+      "cable": null,
+      "cable_peer": null,
+      "cable_peer_type": null,
+      "connected_endpoint": null,
+      "connected_endpoint_type": null,
+      "connected_endpoint_reachable": null,
+      "tags": [
+
+      ],
+      "count_ipaddresses": 0,
+      "custom_fields": {
+
+      }
+    },
+    {
+      "id": "90a19dad-b1de-4f46-97f6-e4d183d7c41d",
+      "url": "http://10.66.69.142:8481/api/dcim/interfaces/90a19dad-b1de-4f46-97f6-e4d183d7c41d/",
+      "device": {
+        "id": "08f50ae1-fe9e-4116-8621-fef4099dc501",
+        "url": "http://10.66.69.142:8481/api/dcim/devices/08f50ae1-fe9e-4116-8621-fef4099dc501/",
+        "name": "SPES0788CICU001",
+        "display_name": "SPES0788CICU001"
+      },
+      "name": "Loopback1",
+      "label": "Loopback1",
+      "type": {
+        "value": "virtual",
+        "label": "Virtual"
+      },
+      "enabled": true,
+      "lag": null,
+      "mtu": null,
+      "mac_address": null,
+      "mgmt_only": true,
+      "description": "network management loopback",
+      "mode": null,
+      "untagged_vlan": null,
+      "tagged_vlans": [
+
+      ],
+      "cable": null,
+      "cable_peer": null,
+      "cable_peer_type": null,
+      "connected_endpoint": null,
+      "connected_endpoint_type": null,
+      "connected_endpoint_reachable": null,
+      "tags": [
+
+      ],
+      "count_ipaddresses": 0,
+      "custom_fields": {
+
+      }
+    }
+  ]
+}
